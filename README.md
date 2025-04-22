@@ -1,7 +1,5 @@
 Essentially, this project tries to predict a person's medical condition (like depression, diabetes, or high blood pressure) based on their reviews or descriptions of their health.  It then goes a step further and suggests a suitable drug for that condition.
 
-How Does It Work?
-
 Data Collection: The system starts with a dataset of drug reviews. This data includes the name of the drug, the condition it's used for, and what patients have said about it (the review).
 
 Data Cleaning and Preparation:
